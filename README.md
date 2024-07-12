@@ -1,6 +1,6 @@
 # E-Voting Application
 
-The E-Voting System Application is an online platform designed to conduct elections electronically. It allows users to create elections, add choices to elections, register as voters, cast votes, and retrieve election results. This application is built using Spring Boot, Spring Data, JPA, and JPA Queries, H2 database.
+The E-Voting System Application is an online platform designed to conduct elections electronically. It allows users to create elections, add choices to elections, register as voters, cast votes, and retrieve election results. This application is built using Spring Boot, REST APIs, Spring Data, JPA, and JPA Queries, H2 database.
 
 ## Features
 
